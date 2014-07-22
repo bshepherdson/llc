@@ -1,0 +1,27 @@
+{
+  "name": "llc",
+  "version": "0.0.0",
+  "description": "Curses-based Lojban dictionary",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shepheb/llc.git"
+  },
+  "keywords": [
+    "lojban",
+    "blessed",
+    "foam"
+  ],
+  "author": "Braden Shepherdson",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/shepheb/llc/issues"
+  },
+  "homepage": "https://github.com/shepheb/llc",
+  "dependencies": {
+    "blessed": "0.0.37"
+  }
+}
